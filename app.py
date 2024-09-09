@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-from bs4 import BeautifulSoup
+import xml.etree.ElementTree as ET
 import pandas as pd
 import io
 
@@ -11,14 +11,14 @@ def fetch_article_summaries(pmid_list):
     response = requests.get(url)
     
     if response.status_code == 200:
-        soup = BeautifulSoup(response.content, 'xml')
+        root = ET.fromstring(response.content)
         
         articles = []
-        for docsum in soup.find_all('DocSum'):
-            title = docsum.find('Item', {'Name': 'Title'}).text if docsum.find('Item', {'Name': 'Title'}) else 'No Title'
-            pub_date = docsum.find('Item', {'Name': 'PubDate'}).text if docsum.find('Item', {'Name': 'PubDate'}) else 'No Date'
-            authors = [author.text for author in docsum.find_all('Item', {'Name': 'Author'})]
-            pmid = docsum.find('Id').text if docsum.find('Id') else 'No PMID'
+        for docsum in root.findall('.//DocSum'):
+            title = docsum.find(".//Item[@Name='Title']").text if docsum.find(".//Item[@Name='Title']") is not None else 'No Title'
+            pub_date = docsum.find(".//Item[@Name='PubDate']").text if docsum.find(".//Item[@Name='PubDate']") is not None else 'No Date'
+            authors = [author.text for author in docsum.findall(".//Item[@Name='Author']")]
+            pmid = docsum.find(".//Id").text if docsum.find(".//Id") is not None else 'No PMID'
             
             articles.append({
                 'PMID': pmid,
@@ -38,12 +38,12 @@ def fetch_article_abstracts(pmid_list):
     response = requests.get(url)
     
     if response.status_code == 200:
-        soup = BeautifulSoup(response.content, 'xml')
+        root = ET.fromstring(response.content)
         
         abstracts = {}
-        for article in soup.find_all('PubmedArticle'):
-            pmid = article.find('PMID').text if article.find('PMID') else 'No PMID'
-            abstract = article.find('AbstractText').text if article.find('AbstractText') else 'No Abstract'
+        for article in root.findall('.//PubmedArticle'):
+            pmid = article.find(".//PMID").text if article.find(".//PMID") is not None else 'No PMID'
+            abstract = article.find(".//AbstractText").text if article.find(".//AbstractText") is not None else 'No Abstract'
             
             abstracts[pmid] = abstract
         return abstracts

@@ -1,0 +1,119 @@
+PMID: 17019734
+Title: Acute myeloid leukemia: epidemiology and etiology.
+Publication Date: 2006 Nov 1
+Authors: Deschler B, Lübbert M
+Abstract:
+Acute myeloid leukemias (AMLs) are infrequent, yet highly malignant neoplasms responsible for a large number of cancer-related deaths. The incidence has been near stable over the last years. It continuously shows 2 peaks in occurrence in early childhood and later adulthood. With an incidence of 3.7 per 100,000 persons and an age-dependent mortality of 2.7 to nearly 18 per 100,000 persons, there is a rising awareness in the Western world of AML's special attributes resulting from an ever-aging population. To objectively describe epidemiologic data on this patient population, recent publications were evaluated to make transparent the current trends and facts. A review of the literature is presented, reflecting highlights of current research with respect to AML etiology. To estimate outcome and discuss informed treatment decisions with AML patients of different age groups and different biologic risk categories, it is mandatory to consider that the outcome results reported in clinical trials were until now heavily biased toward younger patients, whereas the overall dismal prognosis documented in population-based studies most likely reflects the exclusion of older patients from aggressive treatment. The etiology for most cases of AML is unclear, but a growing knowledge concerning leukemogenenic agents within chemotherapy regimens for other malignancies is already available. This includes specific associations of the most frequent balanced translocations in AML, including the "good-risk" abnormalities comprised by the core binding factor leukemias (i.e., AML with the translocation (8;21) and inversion of chromosome 16, and acute promyelocytic leukemia with the translocation (15;17)). In contrast to these genetic alterations, epigenetic lesions, e.g., promoter silencing by hypermethylation of the p15/INK4b and other genes, are increasingly recognized as important in the pathogenesis of AML.
+----------------------------------------
+PMID: 22851055
+Title: Clinical studies of acute myeloid leukemia in the Japan Adult Leukemia Study Group.
+Publication Date: 2012 Aug
+Authors: Miyawaki S
+Abstract:
+Acute myeloid leukemia (AML) is the most common adult leukemia in Japan. The treatment for AML consists of induction, consolidation, and maintenance therapies. To improve outcomes in the treatment of AML, the Japan Adult Leukemia Study Group has conducted six studies in AML patients aged 15-64 years since 1987. In AML201 study, IDR (12 mg/m(2)/day for 3 days) or DNR (50 mg/m(2)/day for 5 days) in combination with Ara-C (100 mg/m(2)/day continuous infusion for 7 days) was established as the standard induction therapy, and four courses of combination chemotherapy using non-cross-resistant agents for non-core binding factor (CBF) AML or three courses of high-dose Ara-C for CBF AML was established as the standard consolidation therapy. The AML97 study showed that allo-HSCT from an HLA-identical sibling donor reduced relapse incidence and improved disease-free survival (DFS), but did not significantly impact overall survival (OS) in poor or intermediate risk patients. Despite these studies by JALSG, only about one-third of AML patients remain free of disease for more than 7 years. The JALSG is now conducting the AML209 study to adapt individual therapies according to genetic alterations.
+----------------------------------------
+PMID: 26851752
+Title: The epidemic of oesophageal carcinoma: Where are we now?
+Publication Date: 2016 Apr
+Authors: Thrift AP
+Abstract:
+Since the early 1970s, the incidence of oesophageal adenocarcinoma has increased dramatically in most Western populations. In contrast, the incidence of oesophageal squamous-cell carcinoma has decreased in these same populations. Epidemiological studies conducted over the past decade have provided great insights into the etiology of oesophageal cancer. These studies have identified gastro-oesophageal reflux disease, obesity and cigarette smoking as risk factors for oesophageal adenocarcinoma, while use of nonsteroidal anti-inflammatory drugs and infection with Helicobacter pylori are associated with reduced risk of oesophageal adenocarcinoma. For oesophageal squamous-cell carcinoma, alcohol and cigarette smoking are the two major risk factors underlying most cases. This review combines a synthesis of these studies with an analysis of data from the United States National Cancer Institute's Surveillance, Epidemiology, and End Results (SEER) program to discuss the change in incidence of oesophageal cancer and summarize current knowledge of risk factors.
+----------------------------------------
+PMID: 32060895
+Title: GPCRs in pancreatic adenocarcinoma: Contributors to tumour biology and novel therapeutic targets.
+Publication Date: 2020 Jun
+Authors: Sriram K, Salmerón C, Wiley SZ, Insel PA
+Abstract:
+Pancreatic cancer has one of the highest mortality rates (5-year survival ~9%) among cancers. Pancreatic adenocarcinoma (PAAD) is the most common (>80%) and the most lethal type of pancreatic cancer. A need exists for new approaches to treat pancreatic adenocarcinoma. GPCRs, the largest family of cell-surface receptors and drug targets, account for ~35% of approved drugs. Recent studies have revealed roles for GPCRs in PAAD cells and cells in the tumour micro-environment. This review assesses current information regarding GPCRs in PAAD by summarizing omics data for GPCRs expression in PAAD. The PAAD "GPCRome" includes GPCRs with approved agents, thereby offering potential for their repurposing/repositioning. We then reviewed the evidence for functional roles of specific GPCRs in PAAD. We also highlight gaps in understanding the contribution of GPCRs to PAAD biology and identify several GPCRs that may be novel therapeutic targets for future work in search of GPCR-targeted drugs to treat PAAD tumours.
+----------------------------------------
+PMID: 20668231
+Title: Intensive chemotherapy does not benefit most older patients (age 70 years or older) with acute myeloid leukemia.
+Publication Date: 2010 Nov 25
+Authors: Kantarjian H, Ravandi F, O'Brien S, Cortes J, Faderl S, Garcia-Manero G, Jabbour E, Wierda W, Kadia T, Pierce S, Shan J, Keating M, Freireich EJ
+Abstract:
+Patients ≥ 70 years of age with acute myeloid leukemia (AML) have a poor prognosis. Recent studies suggested that intensive AML-type therapy is tolerated and may benefit most. We analyzed 446 patients ≥ 70 years of age with AML (≥ 20% blasts) treated with cytarabine-based intensive chemotherapy between 1990 and 2008 to identify risk groups for high induction (8-week) mortality. Excluding patients with favorable karyotypes, the overall complete response rate was 45%, 4-week mortality was 26%, and 8-week mortality was 36%. The median survival was 4.6 months, and the 1-year survival rate was 28%. Survival was similar among patients treated before 2000 and since 2000. A multivariate analysis of prognostic factors for 8-week mortality identified the following to be independently adverse: age ≥ 80 years, complex karyotypes, (≥ 3 abnormalities), poor performance (2-4 Eastern Cooperative Oncology Group), and elevated creatinine > 1.3 mg/dL. Patients with none (28%), 1 (40%), 2 (23%), or ≥ 3 factors (9%) had estimated 8-week mortality rates of 16%, 31%, 55%, and 71% respectively. The 8-week mortality model also predicted for differences in complete response and survival rates. In summary, the prognosis of most patients (72%) ≥ 70 years of age with AML is poor with intensive chemotherapy (8-week mortality ≥ 30%; median survival < 6 months).
+----------------------------------------
+PMID: 25275066
+Title: The response to induction therapy is crucial for the treatment outcomes of elderly patients with acute myeloid leukemia: single-institution experience.
+Publication Date: 2014 Oct
+Authors: Tasaki T, Yamauchi T, Matsuda Y, Takai M, Ookura M, Lee S, Tai K, Ikegaya S, Kishi S, Yoshida A, Urasaki Y, Iwasaki H, Ueda T
+Abstract:
+The prognosis of acute myeloid leukemia (AML) in elderly patients remains poor due to their poor general condition and the intrinsic chemotherapy-resistant nature of their leukemia cells. The present retrospective study evaluated the clinical background as well as the response to treatment, of an unselected group of elderly patients with AML who were admitted to our Institution over a period of six years.
+----------------------------------------
+PMID: 32171751
+Title: Acute myeloid leukaemia in adult patients: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up.
+Publication Date: 2020 Jun
+Authors: Heuser M, Ofran Y, Boissel N, Brunet Mauri S, Craddock C, Janssen J, Wierzbowska A, Buske C
+Abstract:
+No Abstract
+----------------------------------------
+PMID: 28415643
+Title: New transcriptional-based insights into the pathogenesis of desmoplastic small round cell tumors (DSRCTs).
+Publication Date: 2017 May 16
+Authors: Negri T, Brich S, Bozzi F, Volpi CV, Gualeni AV, Stacchiotti S, De Cecco L, Canevari S, Gloghini A, Pilotti S
+Abstract:
+To gain new insights into desmoplastic small round cell tumors (DSRCTs) by means of gene expression profiling (GEP). Formalin-fixed, paraffin-embedded surgical specimens obtained from seven pretreated DSRCT patients were interrogated using GEP complemented by immunohistochemistry, a cancer stem cell array, and miRNA in situ hybridisation, including the combined chimera modules miRNA-200/ZEB1 and miRNA-34/SLUG. The chimera modules divided the cases into three classes that respectively recapitulated the traits of mesenchymal epithelial reverse transition (MErT), epithelial mesenchymal transition (EMT), and hybrid/partial EMT. This indicates a close correlation between the reprogramming governed by EMT regulators and DSRCT biology, which was further confirmed by miRNA-21 and is consistent with the broad morphological spectrum of DSRCTs. Starting from the miRNA-200/ZEB1 axis, we also found that DSRCTs carry a signature of immunological ignorance that is not responsive to PD--L1 blockade. Evidence that the up-regulation of miRNA-200 and E-cadherin, and quite a high level of miRNA-21 expression segregate with the MErT supports the idea that, in addition to the hybrid/partial state, MErT is also enriched in stemness: the androgen-positive cases, whose stemness traits were confirmed by stem cell arrays, all fell into these two classes. Our findings also confirmed that tumoral cell PDGFRA expression correlates with desmoplasia, and demonstrated the co-expression of PDGFRA and ISLR/Meflin, another marker of pluripotency. Despite the limited number of cases, these findings provide unexpectedly relevant information concerning the pathogenesis of DSRCTs, and prove the validity of miRNA-based chimera circuit modelling in the clinico-pathological setting.
+----------------------------------------
+PMID: 25987659
+Title: International phase 3 study of azacitidine vs conventional care regimens in older patients with newly diagnosed AML with >30% blasts.
+Publication Date: 2015 Jul 16
+Authors: Dombret H, Seymour JF, Butrym A, Wierzbowska A, Selleslag D, Jang JH, Kumar R, Cavenagh J, Schuh AC, Candoni A, Récher C, Sandhu I, Bernal del Castillo T, Al-Ali HK, Martinelli G, Falantes J, Noppeney R, Stone RM, Minden MD, McIntyre H, Songer S, Lucy LM, Beach CL, Döhner H
+Abstract:
+This multicenter, randomized, open-label, phase 3 trial evaluated azacitidine efficacy and safety vs conventional care regimens (CCRs) in 488 patients age ≥65 years with newly diagnosed acute myeloid leukemia (AML) with >30% bone marrow blasts. Before randomization, a CCR (standard induction chemotherapy, low-dose ara-c, or supportive care only) was preselected for each patient. Patients then were assigned 1:1 to azacitidine (n = 241) or CCR (n = 247). Patients assigned to CCR received their preselected treatment. Median overall survival (OS) was increased with azacitidine vs CCR: 10.4 months (95% confidence interval [CI], 8.0-12.7 months) vs 6.5 months (95% CI, 5.0-8.6 months), respectively (hazard ratio [HR] was 0.85; 95% CI, 0.69-1.03; stratified log-rank P = .1009). One-year survival rates with azacitidine and CCR were 46.5% and 34.2%, respectively (difference, 12.3%; 95% CI, 3.5%-21.0%). A prespecified analysis censoring patients who received AML treatment after discontinuing study drug showed median OS with azacitidine vs CCR was 12.1 months (95% CI, 9.2-14.2 months) vs 6.9 months (95% CI, 5.1-9.6 months; HR, 0.76; 95% CI, 0.60-0.96; stratified log-rank P = .0190). Univariate analysis showed favorable trends for azacitidine compared with CCR across all subgroups defined by baseline demographic and disease features. Adverse events were consistent with the well-established safety profile of azacitidine. Azacitidine may be an important treatment option for this difficult-to-treat AML population. This trial was registered at www.clinicaltrials.gov as #NCT01074047.
+----------------------------------------
+PMID: 22689805
+Title: Multicenter, randomized, open-label, phase III trial of decitabine versus patient choice, with physician advice, of either supportive care or low-dose cytarabine for the treatment of older patients with newly diagnosed acute myeloid leukemia.
+Publication Date: 2012 Jul 20
+Authors: Kantarjian HM, Thomas XG, Dmoszynska A, Wierzbowska A, Mazur G, Mayer J, Gau JP, Chou WC, Buckstein R, Cermak J, Kuo CY, Oriol A, Ravandi F, Faderl S, Delaunay J, Lysák D, Minden M, Arthur C
+Abstract:
+This multicenter, randomized, open-label, phase III trial compared the efficacy and safety of decitabine with treatment choice (TC) in older patients with newly diagnosed acute myeloid leukemia (AML) and poor- or intermediate-risk cytogenetics.
+----------------------------------------
+PMID: 27520294
+Title: Efficacy and Biological Correlates of Response in a Phase II Study of Venetoclax Monotherapy in Patients with Acute Myelogenous Leukemia.
+Publication Date: 2016 Oct
+Authors: Konopleva M, Pollyea DA, Potluri J, Chyla B, Hogdal L, Busman T, McKeegan E, Salem AH, Zhu M, Ricker JL, Blum W, DiNardo CD, Kadia T, Dunbar M, Kirby R, Falotico N, Leverson J, Humerickhouse R, Mabry M, Stone R, Kantarjian H, Letai A
+Abstract:
+We present a phase II, single-arm study evaluating 800 mg daily venetoclax, a highly selective, oral small-molecule B-cell leukemia/lymphoma-2 (BCL2) inhibitor in patients with high-risk relapsed/refractory acute myelogenous leukemia (AML) or unfit for intensive chemotherapy. Responses were evaluated following revised International Working Group (IWG) criteria. The overall response rate was 19%; an additional 19% of patients demonstrated antileukemic activity not meeting IWG criteria (partial bone marrow response and incomplete hematologic recovery). Twelve (38%) patients had isocitrate dehydrogenase 1/2 mutations, of whom 4 (33%) achieved complete response or complete response with incomplete blood count recovery. Six (19%) patients had BCL2-sensitive protein index at screening, which correlated with time on study. BH3 profiling was consistent with on-target BCL2 inhibition and identified potential resistance mechanisms. Common adverse events included nausea, diarrhea and vomiting (all grades), and febrile neutropenia and hypokalemia (grade 3/4). Venetoclax demonstrated activity and acceptable tolerability in patients with AML and adverse features.
+----------------------------------------
+PMID: 31166681
+Title: Venetoclax and Obinutuzumab in Patients with CLL and Coexisting Conditions.
+Publication Date: 2019 Jun 6
+Authors: Fischer K, Al-Sawaf O, Bahlo J, Fink AM, Tandon M, Dixon M, Robrecht S, Warburton S, Humphrey K, Samoylova O, Liberati AM, Pinilla-Ibarz J, Opat S, Sivcheva L, Le Dû K, Fogliatto LM, Niemann CU, Weinkove R, Robinson S, Kipps TJ, Boettcher S, Tausch E, Humerickhouse R, Eichhorst B, Wendtner CM, Langerak AW, Kreuzer KA, Ritgen M, Goede V, Stilgenbauer S, Mobasher M, Hallek M
+Abstract:
+The BCL2 inhibitor venetoclax has shown activity in patients with chronic lymphocytic leukemia (CLL), but its efficacy in combination with other agents in patients with CLL and coexisting conditions is not known.
+----------------------------------------
+PMID: 28847998
+Title: Promising efficacy and acceptable safety of venetoclax plus bortezomib and dexamethasone in relapsed/refractory MM.
+Publication Date: 2017 Nov 30
+Authors: Moreau P, Chanan-Khan A, Roberts AW, Agarwal AB, Facon T, Kumar S, Touzeau C, Punnoose EA, Cordero J, Munasinghe W, Jia J, Salem AH, Freise KJ, Leverson JD, Enschede SH, Ross JA, Maciag PC, Verdugo M, Harrison SJ
+Abstract:
+The antiapoptotic proteins BCL-2 and myeloid cell leukemia sequence 1 (MCL-1) promote multiple myeloma (MM) cell survival. Venetoclax is a selective, orally bioavailable small-molecule BCL-2 inhibitor; bortezomib can indirectly inhibit MCL-1. In preclinical studies, venetoclax enhanced bortezomib activity, suggesting that cotargeting of BCL-2 and MCL-1 could be an effective treatment strategy in myeloma. This phase 1b trial studied patients with relapsed/refractory MM receiving daily venetoclax (50-1200 mg per designated dose cohort; 800 mg in safety expansion) in combination with bortezomib and dexamethasone. A total of 66 patients were enrolled (54 in the dose-escalation cohorts and 12 in the safety expansion). Patients had received a median of 3 prior therapies (range, 1-13); 26 (39%) were refractory to prior bortezomib and 35 (53%) to lenalidomide; 39 (59%) had prior stem cell transplant. The combination was generally well tolerated, and common adverse events included mild gastrointestinal toxicities (diarrhea [46%], constipation [41%], and nausea [38%]) and grade 3/4 cytopenias (thrombocytopenia [29%] and anemia [15%]). The overall response rate (ORR) was 67% (44/66); 42% achieved very good partial response or better (≥VGPR). Median time to progression and duration of response were 9.5 and 9.7 months, respectively. ORR of 97% and ≥VGPR 73% were seen in patients not refractory to bortezomib who had 1 to 3 prior therapies. Patients with high BCL2 expression had a higher ORR (94% [17/18]) than patients with low BCL2 expression (59% [16/27]). This novel combination of venetoclax with bortezomib and dexamethasone has an acceptable safety profile and promising efficacy in patients with relapsed/refractory MM. This trial was registered at www.clinicaltrials.gov as #NCT01794507.
+----------------------------------------
+PMID: 28847997
+Title: CD207(+)CD1a(+) cells circulate in pediatric patients with active Langerhans cell histiocytosis.
+Publication Date: 2017 Oct 26
+Authors: Carrera Silva EA, Nowak W, Tessone L, Olexen CM, Ortiz Wilczyñski JM, Estecho IG, Elena G, Errasti AE, Rosso DA
+Abstract:
+Langerhans cell histiocytosis (LCH) is a rare disease with an unknown etiology characterized by heterogeneous lesions containing CD207+CD1a+ cells that can arise in almost any tissue and cause significant morbidity and mortality. Precursors of pathological Langerhans cells have yet to be defined. Our aim was to identify circulating CD207+CD1a+ cells and their inducers in LCH. Expression of CD207 and CD1a in the blood myeloid compartment as well as thymic stromal lymphopoietin (TSLP) and transforming growth factor β (TGF-β) plasma levels were measured in 22 pediatric patients with active disease (AD) or nonactive disease (NAD). In patients with AD vs those with NAD, the myeloid compartment showed an increased CD11b (CD11bhigh plus CD11b+) fraction (39.7 ± 3.6 vs 18.6 ± 1.9), a higher percentage of circulating CD11bhighCD11c+CD207+ cells (44.5 ± 11.3 vs 3.2 ± 0.5), and the presence of CD11chighCD207+CD1a+ cells (25.0 ± 9.1 vs 2.3 ± 0.5). Blood CD207+CD1a+ cells were not observed in adult controls or umbilical cord. Increased TSLP and TGF-β levels were detected in patients with AD. Interestingly, plasma from patients with AD induces CD207 expression on CD14+ monocytes. We conclude that CD207+CD1a+ cells are circulating in patients with active LCH, and TSLP and TGF-β are potential drivers of Langerhans-like cells in vivo.
+----------------------------------------
+PMID: 26639348
+Title: Targeting BCL2 with Venetoclax in Relapsed Chronic Lymphocytic Leukemia.
+Publication Date: 2016 Jan 28
+Authors: Roberts AW, Davids MS, Pagel JM, Kahl BS, Puvvada SD, Gerecitano JF, Kipps TJ, Anderson MA, Brown JR, Gressick L, Wong S, Dunbar M, Zhu M, Desai MB, Cerri E, Heitner Enschede S, Humerickhouse RA, Wierda WG, Seymour JF
+Abstract:
+New treatments have improved outcomes for patients with relapsed chronic lymphocytic leukemia (CLL), but complete remissions remain uncommon. Venetoclax has a distinct mechanism of action; it targets BCL2, a protein central to the survival of CLL cells.
+----------------------------------------
+PMID: 29562156
+Title: Venetoclax-Rituximab in Relapsed or Refractory Chronic Lymphocytic Leukemia.
+Publication Date: 2018 Mar 22
+Authors: Seymour JF, Kipps TJ, Eichhorst B, Hillmen P, D'Rozario J, Assouline S, Owen C, Gerecitano J, Robak T, De la Serna J, Jaeger U, Cartron G, Montillo M, Humerickhouse R, Punnoose EA, Li Y, Boyer M, Humphrey K, Mobasher M, Kater AP
+Abstract:
+Venetoclax inhibits BCL2, an antiapoptotic protein that is pathologically overexpressed and that is central to the survival of chronic lymphocytic leukemia cells. We evaluated the efficacy of venetoclax in combination with rituximab in patients with relapsed or refractory chronic lymphocytic leukemia.
+----------------------------------------
+PMID: 27178240
+Title: Venetoclax in relapsed or refractory chronic lymphocytic leukaemia with 17p deletion: a multicentre, open-label, phase 2 study.
+Publication Date: 2016 Jun
+Authors: Stilgenbauer S, Eichhorst B, Schetelig J, Coutre S, Seymour JF, Munir T, Puvvada SD, Wendtner CM, Roberts AW, Jurczak W, Mulligan SP, Böttcher S, Mobasher M, Zhu M, Desai M, Chyla B, Verdugo M, Enschede SH, Cerri E, Humerickhouse R, Gordon G, Hallek M, Wierda WG
+Abstract:
+Deletion of chromosome 17p (del[17p]) in patients with chronic lymphocytic leukaemia confers very poor prognosis when treated with standard chemo-immunotherapy. Venetoclax is an oral small-molecule BCL2 inhibitor that induces chronic lymphocytic leukaemia cell apoptosis. In a previous first-in-human study of venetoclax, 77% of patients with relapsed or refractory chronic lymphocytic leukaemia achieved an overall response. Here we aimed to assess the activity and safety of venetoclax monotherapy in patients with relapsed or refractory del(17p) chronic lymphocytic leukaemia.
+----------------------------------------
